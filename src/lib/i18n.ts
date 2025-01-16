@@ -68,7 +68,7 @@ export const translations = {
   "food": "{{image.food}}", // Food image
   "nature": "{{image.nature}}" // Nature image
 }`,
-      chineseContent: "Chinese Content",
+      chineseContent: "English Content",
       chineseContentExample: `{
   "title": "{{title}}", // Title
   "content": "{{paragraph}}", // Paragraph
