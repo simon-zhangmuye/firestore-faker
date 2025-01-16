@@ -1,6 +1,6 @@
 # Firestore Data Generator
 
-![Firestore Faker Screenshot](https://i.ibb.co/sVns0JD/firestorefakerscreenshot.png)
+![Firestore Faker Screenshot](https://i.imghippo.com/files/eyci5585Bbg.png)
 
 [English](#english) | [中文](#中文) | [日本語](#日本語) | [한국어](#한국어) | [Français](#français) | [Español](#español) | [Deutsch](#deutsch) | [Русский](#русский)
 
